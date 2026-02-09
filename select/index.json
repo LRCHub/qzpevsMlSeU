@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ラブカ？（feat. 天馬司&鳳えむ&草薙寧々&神代類&MEIKO）",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2026-02-09T14:23:52.076208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラブカ？ (feat. 天馬司&鳳えむ&草薙寧々&神代類&MEIKO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_ラブカ__(feat._天馬司&鳳えむ&草薙寧々&神代類&MEIKO)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブカ? (feat. 天馬司&鳳えむ&草薙寧々&神代類&MEIKO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_ラブカ__(feat._天馬司&鳳えむ&草薙寧々&神代類&MEIKO)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
